@@ -1,0 +1,19 @@
+body{
+color:black;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 14px;
+font-weight: 200;
+background: rgb(66,213,169);
+background: linear-gradient(90deg, rgba(66,213,169,1) 23%, rgba(18,240,140,1) 50%, rgba(0,212,255,1) 89%);
+}
+#camera , #result
+{
+  border: 2px double white;
+  width: 350px;
+  height: 300px; 
+}
+#top{
+letter-spacing: 8px;
+font-size: 18px;
+border-radius: 12px;
+}
